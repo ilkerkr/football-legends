@@ -1,0 +1,19 @@
+.header {
+  width: 50%;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.img {
+  width: 170px;
+  height: 170px;
+}
+
+.title {
+  width: 45%;
+  background-color: #ffffff4f;
+  margin: 1rem auto;
+  font-weight: bold;
+}
+
+
